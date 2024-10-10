@@ -2,7 +2,7 @@
 title: Shark sampling in Trinidad
 date: 2024-03-19
 image:
-  focal_point: 'top'
+  focal_point: 'mid'
 ---
 
 Dr. Portnoy and Lizz Dolan head to Trinidad!
