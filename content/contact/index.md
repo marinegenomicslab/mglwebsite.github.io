@@ -15,7 +15,7 @@ sections:
         street: 6300 Ocean Dr
         city: Corpus Christi
         region: TX
-        postcode: '94305'
+        postcode: '78412'
         country: United States
         country_code: US
       coordinates:
@@ -55,7 +55,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: ccbay.jpg
           filters:
             brightness: 1
           parallax: false
