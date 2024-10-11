@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Population structure of the Atlantic angel shark (Squanita dumeril) in United States waters of the western North Atlantic Ocean"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Fields
+- Portnoy
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2024-10-11T00:00:00Z"
+doi: "https://doi.org/10.1007/s10641-024-01608-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-10-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,10 +21,34 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: While dorsal-ventrally compressed chondrichthyans are among the most imperiled fishes in the world, there is still limited knowledge of the biology of many of these species, even in well-studied
+   ocean basins. In the western North Atlantic Ocean,
+  the population structure of the Atlantic angel shark
+  (Squatina dumeril) is not fully understood; therefore,
+  the portioning of genetic variation was assessed
+  among individuals caught along the east coast of the
+  United States (Atlantic) and on the northern Gulf of
+  Mexico (Gulf) using reduced representation genomics
+  and mitochondrial sequencing. Three distinct groups
+  were delineated with nuclear data, the Atlantic, the
+  eastern Gulf, and the western Gulf, along boundaries
+  described by previous research. Mitochondrial
+  data only resolved two groups, with the western
+  Gulf separated from the eastern Gulf and Atlantic
+  combined. Demographic modeling suggested that
+  the Atlantic population separated from a single Gulf
+  population which subsequently split into eastern and
+  western populations. Additionally, there was evidence
+  that adjacent populations experienced gene flow
+  after splitting, which may explain the incongruence
+  between results based on nuclear and mtCR data.
+  Correlations between environmental variables and
+  allele frequencies at 873 loci indicated potential local
+  adaptation. Therefore, the preservation of all three
+  groups is necessary for the conservation of long-term adaptive variation important for species persistence.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
