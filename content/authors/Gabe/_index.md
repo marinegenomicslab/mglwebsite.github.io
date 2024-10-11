@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Katie Gabe
 
 # Full Name (for SEO)
-first_name: Lizz 
-last_name: Dolan
+first_name: Katie 
+last_name: Gabe
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,14 +44,14 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elizabeth.dolan@tamucc.edu'
+    link: 'mailto:kathryn.gabe@tamucc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
-  # - icon: github
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
+  # # - icon: github
   #   icon_pack: fab
   #   link: 
 # Link to a PDF of your resume/CV from the About widget.
@@ -72,6 +72,6 @@ user_groups:
   - Staff
 ---
 
-Lizz joined the Marine Genomics Laboratory at Texas A&M-Corpus Christi in August 2015 and completed her masters with the MGL in August 2018. Her masters thesis focused on the phylogeny of both batfishes (genus Ogcocephalus) and puffers (genus Sphoeroides). Currently, she is working on her PhD part time. Her dissertation research is focused on the phylogenetic relationships of sea robins (family Triglidae) and examining the genes responsible for their characteristic armor.
-
-Lizz received her B.S. in Biology with a specialization in Marine and Aquatic Sciences from Bowling Green State University in 2012. After leaving BGSU, Lizz worked as  a research technician at The University of Southern Mississippi's Gulf Coast Research Lab, where she worked on a variety of projects ranging from zooplankton identification to elasmobranch surveys.  
+Katie joined the Marine Genomics Lab in July 2024. Her research interests include understanding marine animals’ physiological responses to human-caused changes in the oceans, such as pollution, sea level rise, and ocean acidification. 
+ 
+Katie received her BS from Miami University of Ohio in May 2024. While working on her undergraduate degree, she pursued summer internships at Mote Marine Laboratory & Aquarium in 2022 studying manatee populations. Additionally, she spent time at the Virginia Institute of Marine Science in 2023 studying microplastic ingestion in rainbow trout. She also participated in a research dive trip analyzing the spread of Stony Coral Tissue Loss Disease with nonprofit Reef Expeditions in September 2023 and studied tropical marine biology in Costa Rica in January 2024. After graduating, she joined the Marine Genomics Lab to strengthen her lab skills and narrow down her interests before pursuing a graduate degree in the field.  
