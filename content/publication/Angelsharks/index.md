@@ -20,7 +20,7 @@ publishDate: "2024-10-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Environ Biol Fish* (2024)"
+publication: "*Environ Biol Fish*"
 publication_short: ""
 
 abstract: While dorsal-ventrally compressed chondrichthyans are among the most imperiled fishes in the world, there is still limited knowledge of the biology of many of these species, even in well-studied
