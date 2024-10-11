@@ -59,7 +59,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "/sassets/pdfs/Fields_etal_2024.pdf"
+url_pdf: "/assets/pdfs/Fields_etal_2024.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
