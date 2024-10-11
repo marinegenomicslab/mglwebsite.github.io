@@ -1,6 +1,6 @@
 ---
 title: Estimating Atlantic red snapper population size with genetic close-kin mark-recapture
-date: 2024-03-19
+date: 2021
 image:
   focal_point: 'mid'
 
