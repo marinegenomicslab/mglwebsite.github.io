@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergradute Students
+  - Undergraduate Students
 ---
 
 Taylor joined the MGL in 2024. She is currently assisting with various projects including metabarcoding and methylation-based aging in fishes.
