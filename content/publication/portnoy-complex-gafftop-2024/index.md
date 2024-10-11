@@ -1,6 +1,6 @@
 ---
 title: Complex patterns of genetic population structure in the mouthbrooding marine
-  catfish, textitBagre marinus , in the Gulf of Mexico and U.S. Atlantic
+  catfish, Bagre marinus, in the Gulf of Mexico and U.S. Atlantic
 authors:
 - David S. Portnoy
 - Shannon J. O'Leary
@@ -52,4 +52,11 @@ abstract: Abstract  Patterns of genetic variation reflect interactions among mic
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1002/ece3.11514
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Ross Robertson**](https://biogeodb.stri.si.edu/caribbean/en/pages/random/1176)'
+  focal_point: ""
+  preview_only: false
 ---
