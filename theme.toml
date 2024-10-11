@@ -42,3 +42,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [params.publications]
   enabled = true
+
+[params]
+  customCSS = ["assets/scss/custom.css"]
