@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Andrew Fields
+title: Andrew T. Fields
 
 # Full Name (for SEO)
-first_name: Andrew
+first_name: Andrew T.
 last_name: Fields
 
 # Is this the primary user of the site?

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Elizabeth P. Dolan
 
 # Full Name (for SEO)
-first_name: Lizz 
+first_name: Elizabeth 
 last_name: Dolan
 
 # Is this the primary user of the site?

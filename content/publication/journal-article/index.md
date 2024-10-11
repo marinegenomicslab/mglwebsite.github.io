@@ -2,6 +2,8 @@
 title: "Population structure of the Atlantic angel shark (Squanita dumeril) in United States waters of the western North Atlantic Ocean"
 authors:
 - Fields
+- William B. Driggers III
+- Christian M. Jones
 - Portnoy
 # author_notes:
 # - "Equal contribution"
@@ -18,7 +20,7 @@ publishDate: "2024-10-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Environ Biol Fish* (2024)"
 publication_short: ""
 
 abstract: While dorsal-ventrally compressed chondrichthyans are among the most imperiled fishes in the world, there is still limited knowledge of the biology of many of these species, even in well-studied
