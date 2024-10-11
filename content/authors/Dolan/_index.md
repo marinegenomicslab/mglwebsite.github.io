@@ -10,7 +10,7 @@ last_name: Dolan
 superuser: false
 
 # Role/position
-role: Staff
+role: Laboratory Manager
 
 # Organizations/Affiliations
 organizations:

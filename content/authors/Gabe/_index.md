@@ -10,7 +10,7 @@ last_name: Gabe
 superuser: false
 
 # Role/position
-role: Staff
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:

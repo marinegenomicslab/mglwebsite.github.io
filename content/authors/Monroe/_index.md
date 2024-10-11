@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Alison Monroe
 
 # Full Name (for SEO)
-first_name: Lizz 
-last_name: Dolan
+first_name: Alison
+last_name: Monroe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff
+role: Post Doctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -44,13 +44,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elizabeth.dolan@tamucc.edu'
+    link: 'mailto:alison.monroe@tamucc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
+    link: https://scholar.google.com/citations?user=rpZLWz4AAAAJ&hl=en&oi=sra
   # - icon: github
   #   icon_pack: fab
   #   link: 
@@ -72,6 +72,6 @@ user_groups:
   - Staff
 ---
 
-Lizz joined the Marine Genomics Laboratory at Texas A&M-Corpus Christi in August 2015 and completed her masters with the MGL in August 2018. Her masters thesis focused on the phylogeny of both batfishes (genus Ogcocephalus) and puffers (genus Sphoeroides). Currently, she is working on her PhD part time. Her dissertation research is focused on the phylogenetic relationships of sea robins (family Triglidae) and examining the genes responsible for their characteristic armor.
+Alison joined the Marine Genomics Lab in August 2021. Her research interests include using genetics to understand population dynamics and aid in conservation efforts. She is especially interested in how these dynamics are changing in the ocean due to climate change and other environmental stressors.  Currently, she will be using next generation sequencing methods and close-kin mark recapture analyses to estimate the population size of Atlantic Red Snapper.  
 
-Lizz received her B.S. in Biology with a specialization in Marine and Aquatic Sciences from Bowling Green State University in 2012. After leaving BGSU, Lizz worked as  a research technician at The University of Southern Mississippi's Gulf Coast Research Lab, where she worked on a variety of projects ranging from zooplankton identification to elasmobranch surveys.  
+Alison received her BS from the University of North Carolina Wilmington in 2014, her MSc from King Abdullah University of Science and Technology in Saudi Arabia in 2015, and PhD at the KAUST in 2020. Her dissertation focused on using molecular tools such as RNA-seq to evaluate the effects of climate change on coral reef associated fish. This included adapting a novel proteomics method for use in non-model organisms to identify ecologically relevant changes at a proteome level scale. She also has a background in coral reef ecology and helped document, for the first time, a mass coral bleaching event in the Red Sea.  

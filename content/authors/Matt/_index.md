@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Joseph Matt
 
 # Full Name (for SEO)
-first_name: Lizz 
-last_name: Dolan
+first_name: Joseph 
+last_name: Matt
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff
+role: Post Doctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -44,13 +44,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elizabeth.dolan@tamucc.edu'
+    link: 'mailto:joseph.matt@tamucc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
+    link: https://scholar.google.com/citations?user=j6bcZHAAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: 
@@ -72,6 +72,6 @@ user_groups:
   - Staff
 ---
 
-Lizz joined the Marine Genomics Laboratory at Texas A&M-Corpus Christi in August 2015 and completed her masters with the MGL in August 2018. Her masters thesis focused on the phylogeny of both batfishes (genus Ogcocephalus) and puffers (genus Sphoeroides). Currently, she is working on her PhD part time. Her dissertation research is focused on the phylogenetic relationships of sea robins (family Triglidae) and examining the genes responsible for their characteristic armor.
+Joey Matt joined the Marine Genomics Lab in the summer of 2021.  His research has focused on oyster aquaculture and has investigated problems faced by the industry and addressed questions important to selection and breeding.  His current projects aim to develop tools and strategies to most efficiently breed oysters to improve traits important to the viability of oyster aquaculture, including implementing genomic-based breeding strategies.
 
-Lizz received her B.S. in Biology with a specialization in Marine and Aquatic Sciences from Bowling Green State University in 2012. After leaving BGSU, Lizz worked as  a research technician at The University of Southern Mississippi's Gulf Coast Research Lab, where she worked on a variety of projects ranging from zooplankton identification to elasmobranch surveys.  
+Joey received a B.S. in Biology at Wake Forest University. He then worked as a technologist at the Aquaculture Breeding and Technology Center (ABC) at the Virginia Institute of Marine Science (VIMS), where he completed both a masters and doctorate program in fisheries science. 

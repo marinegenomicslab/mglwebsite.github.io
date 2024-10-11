@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Dominic Swift
 
 # Full Name (for SEO)
-first_name: Lizz 
-last_name: Dolan
+first_name: Dominic
+last_name: Swift
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff
+role: Post Doctoral Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -44,13 +44,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elizabeth.dolan@tamucc.edu'
+    link: 'mailto:dominic.swift@tamucc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
+    link: https://scholar.google.com/citations?hl=en&user=6uO9t94AAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: 
@@ -72,6 +72,6 @@ user_groups:
   - Staff
 ---
 
-Lizz joined the Marine Genomics Laboratory at Texas A&M-Corpus Christi in August 2015 and completed her masters with the MGL in August 2018. Her masters thesis focused on the phylogeny of both batfishes (genus Ogcocephalus) and puffers (genus Sphoeroides). Currently, she is working on her PhD part time. Her dissertation research is focused on the phylogenetic relationships of sea robins (family Triglidae) and examining the genes responsible for their characteristic armor.
+Originally from Liverpool in the UK, Dominic joined the Marine Genomics Lab in March 2015. His research focuses on the evolutionary origins and ecological impacts of shark reproductive characters using genetic and genomic techniques.
 
-Lizz received her B.S. in Biology with a specialization in Marine and Aquatic Sciences from Bowling Green State University in 2012. After leaving BGSU, Lizz worked as  a research technician at The University of Southern Mississippi's Gulf Coast Research Lab, where she worked on a variety of projects ranging from zooplankton identification to elasmobranch surveys.  
+Dom received both his Bachelor’s in Biology and Master's in Bioinformatics & Genomics from Imperial College London. His Master’s research investigated the evolution of a distinct reproductive character displayed by tiger sharks using transcriptomics. Prior to joining the MGL, Dom interned at the Cape Eleuthera Institute, the Bahamas, and worked as a Research Assistant at Imperial College’s Silwood Park Campus. In 2018, Dom was awarded a research grant from the Save Our Seas Foundation to examine genetic stock structure of blacktip sharks across international boundaries. 

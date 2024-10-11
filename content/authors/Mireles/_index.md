@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Cameron Mireles
 
 # Full Name (for SEO)
-first_name: Lizz 
-last_name: Dolan
+first_name: Cameron 
+last_name: Mireles
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elizabeth.dolan@tamucc.edu'
+    link: 'mailto:cmireles8@islander.tamucc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: 
@@ -72,6 +72,5 @@ user_groups:
   - Staff
 ---
 
-Lizz joined the Marine Genomics Laboratory at Texas A&M-Corpus Christi in August 2015 and completed her masters with the MGL in August 2018. Her masters thesis focused on the phylogeny of both batfishes (genus Ogcocephalus) and puffers (genus Sphoeroides). Currently, she is working on her PhD part time. Her dissertation research is focused on the phylogenetic relationships of sea robins (family Triglidae) and examining the genes responsible for their characteristic armor.
+Cameron joined the Marine Genomics Lab in Fall of 2023 as an undergradute researcher. He recently gradauted with his BS at Texas A&M University – Corpus Christi in biology with an emphasis in Marine Biology.  Currently, he is assisting with genetic studies on the eastern oyster, *Crassostrea virginica*.
 
-Lizz received her B.S. in Biology with a specialization in Marine and Aquatic Sciences from Bowling Green State University in 2012. After leaving BGSU, Lizz worked as  a research technician at The University of Southern Mississippi's Gulf Coast Research Lab, where she worked on a variety of projects ranging from zooplankton identification to elasmobranch surveys.  

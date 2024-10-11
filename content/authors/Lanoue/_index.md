@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Lizz Dolan
+title: Kat Lanoue
 
 # Full Name (for SEO)
-first_name: Lizz 
-last_name: Dolan
+first_name: Kat 
+last_name: Lanoue
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff
+role: Research Technician
 
 # Organizations/Affiliations
 organizations:
@@ -44,13 +44,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:elizabeth.dolan@tamucc.edu'
+    link: 'mailto:katherine.lanoue@tamucc.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=FEmfE0QAAAAJ&hl=en&oi=sra
   # - icon: github
   #   icon_pack: fab
   #   link: 
@@ -72,6 +72,8 @@ user_groups:
   - Staff
 ---
 
-Lizz joined the Marine Genomics Laboratory at Texas A&M-Corpus Christi in August 2015 and completed her masters with the MGL in August 2018. Her masters thesis focused on the phylogeny of both batfishes (genus Ogcocephalus) and puffers (genus Sphoeroides). Currently, she is working on her PhD part time. Her dissertation research is focused on the phylogenetic relationships of sea robins (family Triglidae) and examining the genes responsible for their characteristic armor.
+Katherine Lanoue (Kat) joined the Marine Genomics Laboratory in 2021 MGL as a Research Technician in Fisheries and Aquaculture Genetics. She is currently working on construction of a GT-Seq panel for  red snapper as part of a large CKMR project.
 
-Lizz received her B.S. in Biology with a specialization in Marine and Aquatic Sciences from Bowling Green State University in 2012. After leaving BGSU, Lizz worked as  a research technician at The University of Southern Mississippi's Gulf Coast Research Lab, where she worked on a variety of projects ranging from zooplankton identification to elasmobranch surveys.  
+Kat graduated with her B.S. in Biomedical Sciences with a minor in Chemistry from Texas A&M University- Corpus Christi in 2021. While getting her undergraduate degree, Kat interned with Texas Parks and Wildlife, and was able to gain experience using ddRAD sequencing while working on a project assessing genetic population structure of eastern oysters along the Gulf Coast. Kat was also an undergraduate research assistant for Dr. Seemann’s Molecular Biology Laboratory at TAMUCC, where she worked on a project investigating changes in post-transcriptional gene expression and bone density in medaka. Kat worked as a chemistry TA for two years and as a Supplemental Instructor for an undergraduate level genetics course for one year during her undergrad. She joined the Marine Genomics Laboratory in 2020 as a McNair scholar while completing her undergraduate degree. Her project focused on using next generation sequencing methods to assess parentage in mouthbrooding marine catfish. 
+
+When Kat is not in the lab she can be found around campus roller skating or at the Starbucks reading Stephen King. She hopes to one day work as a forensic geneticist and loves all things surrounding genetics.  
