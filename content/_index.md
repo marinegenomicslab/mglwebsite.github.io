@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        ![Marine Genomics Lab Logo](assets/media/lab-logo.jpg)
+        Marine Genomics Lab
       image:
         filename: welcome.jpg
       text: |
