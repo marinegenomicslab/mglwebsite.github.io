@@ -1,9 +1,9 @@
 ---
 # Display name
-title: David Portnoy
+title: David S. Portnoy
 
 # Full Name (for SEO)
-first_name: David
+first_name: David S.
 last_name: Portnoy
 
 # Is this the primary user of the site?
