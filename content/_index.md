@@ -12,9 +12,6 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-      <div style="text-align: center;">
-    <img src="/images/welcome.jpg" alt="Welcome" style="max-width: 100%; height: auto;">
-  </div>
 
         <br>
         
