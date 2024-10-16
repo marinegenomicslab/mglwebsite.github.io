@@ -1,12 +1,11 @@
 ---
+# page title
 title: Current Studies
 
-# Listing view
-view: showcase
-flip_alt_rows: true
+type: landing
 
-
-banner:
-  caption: ''
-  image: ''
+design:
+    columns: '1'
+    view: showcase
+    flip_alt_rows: true
 ---
