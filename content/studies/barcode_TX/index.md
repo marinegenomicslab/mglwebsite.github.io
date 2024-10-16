@@ -1,5 +1,5 @@
 ---
-title: Recovery of the Smalltooth Sawfish
+title: Barcoding Texas Fishes
 date: 2021
 image:
   focal_point: 'mid'
