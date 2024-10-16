@@ -1,6 +1,6 @@
 ---
 title: Conservation Genomic Assessment of imperiled freshwater fishes endemic to the Pecos and Devils Rivers
-date: 2021
+# date: 2021
 image:
   focal_point: 'mid'
 
