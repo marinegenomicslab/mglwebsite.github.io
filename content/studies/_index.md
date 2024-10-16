@@ -2,11 +2,11 @@
 title: Current Studies
 
 # Listing view
-Design:
+design:
   columns: '1'
   view: showcase
-
-# Optional banner image (relative to `assets/media/` folder).
+  filp_alt_rows: true
+  
 banner:
   caption: ''
   image: ''
