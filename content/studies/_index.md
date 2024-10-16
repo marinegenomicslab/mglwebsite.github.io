@@ -1,22 +1,11 @@
 ---
-# page title
 title: Current Studies
 
-type: landing
+# Listing view
+view: card
 
-section:
-  - block: collection
-    content:
-      title: Current Studies
-      text: ""
-      count: 10
-      filters:
-        folders:
-          - studies
-        #publication_type: 'article-journal'
-    design:
-      view: showcase
-      columns: '1'
-      flip_alt_view: true
-
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
