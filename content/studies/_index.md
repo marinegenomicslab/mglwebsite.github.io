@@ -2,7 +2,6 @@
 # page title
 title: Current Studies
 
-type: landing
 
 design:
     columns: '1'
