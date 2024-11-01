@@ -1,6 +1,6 @@
 ---
 title: Philopatry influences the genetic population structure of the blacktip shark
-  ( textitCarcharhinus limbatus ) at multiple spatial scales
+  (Carcharhinus limbatus) at multiple spatial scales
 authors:
 - Dominic G. Swift
 - Shannon J. O'Leary
