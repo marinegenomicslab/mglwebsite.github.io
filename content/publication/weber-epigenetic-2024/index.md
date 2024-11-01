@@ -17,7 +17,7 @@ abstract: "Age estimates are essential for ﬁsheries assessment and management,
   deepwater (textgreater200 m) ﬁshes are often difficult to age using traditional
   techniques. Therefore, age-predictive epigenetic clocks were developed for a model
   deepwater reef ﬁsh, blackbelly roseﬁsh Helicolenus dactylopterus, using two tissue
-  types (ﬁn clips and muscle; n = 61 individuals; 9−60 years) and \x0214C-validated
+  types (ﬁn clips and muscle; n = 61 individuals; 9−60 years) and 14C-validated
   consensus age estimates. The inﬂuence of biological information (length and sex)
   on epigenetic clock accuracy, and the potential for developing a multi-tissue clock,
   were also assessed. Bisulﬁte-converted restriction site-associated DNA sequencing
