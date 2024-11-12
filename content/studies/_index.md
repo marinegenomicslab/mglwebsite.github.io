@@ -3,7 +3,7 @@ title: Current Studies
 type: landing
 
 sections:
-  - block: portfolio
+  - block: collection
     id: studies
     content:
       title: Current Projects
