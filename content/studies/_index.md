@@ -12,7 +12,7 @@ sections:
       
       text: |
 
-      [my image](/studies/seine.jpg)
+      [my image](seine.jpg)
 
         <br>
         
