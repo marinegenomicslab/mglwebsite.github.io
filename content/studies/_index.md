@@ -10,7 +10,7 @@ sections:
     content:
       title: Barcoding Texas Fishes
       image:
-        filename: seine.jpg
+        filename: assets/media/seine.jpg
         position: center
       text: |
 
