@@ -20,7 +20,7 @@ sections:
   - block: markdown
     id: Section 2
     content:
-      title: Conservation Genomics of the Comanche Springs Pupfish (Cyprinodon elegans)
+      title: Conservation Genomics of the Comanche Springs Pupfish (*Cyprinodon elegans*)
       image:
         filename: 
         position: center
