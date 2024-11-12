@@ -5,10 +5,13 @@ title: Current Studies
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     id: Section 1
     content:
       title: Barcoding Texas Fishes
+      image:
+        filename: content/studies/seine.jpg
+        position: left
       
       text: |
 
