@@ -9,10 +9,9 @@ sections:
     id: Section 1
     content:
       title: Barcoding Texas Fishes
-      image:
-        src: assets/media/seine.jpg
-        position: center
+      
       text: |
+        ![Seine Net](seine.jpg)
 
         <br>
         
