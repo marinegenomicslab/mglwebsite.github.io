@@ -12,7 +12,7 @@ sections:
       
       text: |
 
-        ![image alt >](/seince.jpg)
+        [image alt >](/seince.jpg)
 
         <br>
         
