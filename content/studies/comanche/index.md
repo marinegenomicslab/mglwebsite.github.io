@@ -7,7 +7,7 @@ image:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**We Love Sharks**](https://welovesharks.club/species-profile-angelshark/)'
+  caption: 'Image credit: [Joel Sartore](https://www.joelsartore.com/env020-00239/)'
   focal_point: ""
   preview_only: false
 ---
