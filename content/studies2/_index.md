@@ -1,6 +1,6 @@
 ---
 # Page Title
-title:
+title: Current Studies
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
