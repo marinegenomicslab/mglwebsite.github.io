@@ -11,7 +11,7 @@ sections:
       title: Barcoding Texas Fishes
       
       text: |
-      <div style="text-align: right;">
+      
         ![Seine Net](seine.jpg)
 
         <br>
