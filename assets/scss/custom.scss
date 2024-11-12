@@ -12,30 +12,3 @@
   .navbar a:hover {
     color: #5CAAD8 !important;
   }
-
-  img[alt$=">"] {
-    float: right;
-  }
-  
-  img[alt$="<"] {
-    float: left;
-  }
-  
-  img[alt$="><"] {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: auto;
-    float: none!important;
-  }
-
-img[src*='#left'] {
-    float: left;
-}
-img[src*='#right'] {
-    float: right;
-}
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
