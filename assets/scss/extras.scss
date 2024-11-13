@@ -25,3 +25,15 @@ img[src*='#center'] {
   display: block;
   margin: auto;
 }
+
+img[src$='#floatleft']
+{
+	float:left;
+        //etc. etc/
+}
+
+img[src$='#floatright']
+{
+	float:right;
+       //etc. etc.
+}
