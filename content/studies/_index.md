@@ -7,6 +7,7 @@ type: landing
 sections:
   - block: markdown
     id: Section 1
+    background_image: "/assets/media/jars.jpeg"
     content:
       title: Barcoding Texas Fishes
       
