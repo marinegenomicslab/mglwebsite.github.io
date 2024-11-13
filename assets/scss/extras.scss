@@ -1,39 +1,12 @@
-/* Change the top menu background color */
-img[alt$=">"] {
-  float: right;
+.left-image-text {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
 }
 
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
+.left-image-text img {
+  width: 150px;
   height: auto;
-  margin: auto;
-  float: none!important;
-}
-
-img[src*='#left'] {
-  float: left;
-}
-img[src*='#right'] {
-  float: right;
-}
-img[src*='#center'] {
-  display: block;
-  margin: auto;
-}
-
-img[src$='#floatleft']
-{
-	float:left;
-        //etc. etc/
-}
-
-img[src$='#floatright']
-{
-	float:right;
-       //etc. etc.
+  margin-right: 20px;
+  border-radius: 8px;
 }
