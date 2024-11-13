@@ -14,3 +14,14 @@ img[alt$="><"] {
   margin: auto;
   float: none!important;
 }
+
+img[src*='#left'] {
+  float: left;
+}
+img[src*='#right'] {
+  float: right;
+}
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}
