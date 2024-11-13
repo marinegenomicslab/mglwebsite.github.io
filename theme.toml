@@ -51,7 +51,9 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   [markup.goldmark]
     [markup.goldmark.parser]
       wrapStandAloneImageWithinParagraph = false
-      
+      [markup.goldmark.parser.attribute]
+        block = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderHooks]
