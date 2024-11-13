@@ -4,11 +4,18 @@ title: Current Studies
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
+
 sections:
   - block: markdown
     id: Section 1
-    background:
-      image: jars.jpeg
+    design:
+      background:
+        image: jars.jpeg
+        image_darken: 0.6
+        image_parallax: false
+        image_position: center
+        image_size: cover
+        text_color_light: false
     content:
       title: Barcoding Texas Fishes
       
