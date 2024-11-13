@@ -36,7 +36,18 @@ tags = ["academic",
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
+
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
 
+[params.publications]
+  enabled = true
+
+[params]
+  customCSS = ["assets/scss/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
