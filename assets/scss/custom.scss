@@ -12,6 +12,12 @@
   .navbar a:hover {
     color: #5CAAD8 !important;
   }
-
-
-  img[alt=drawing] { width: 200px; }
+  
+  #Section1 {
+    background-image: url('/media/jars.jpeg'); /* Path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px; /* Optional: add padding to give content space */
+    color: #ffffff; /* Optional: set text color to contrast with background */
+  }
