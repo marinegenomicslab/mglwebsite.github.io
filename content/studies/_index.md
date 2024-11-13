@@ -12,14 +12,10 @@ sections:
       title: Barcoding Texas Fishes
       
       text: |
-            <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-            <div style="flex: 0 0 150px; margin-right: 20px;">
-              <img src="studies/jars.jpeg" alt="Seine Net" style="width: 100%; height: auto; border-radius: 8px;">
-            </div>
-            <div style="flex: 1;">
-              Traditionally, species identification has been based on external morphology alone, but this can be problematic because of cryptic similarity among taxa, and the need for trained experts. This has led to the adoption of DNA-based identification techniques (often referred to as DNA-barcoding) that offer many advantages over traditional methods. DNA-based identification can be used to accurately identify species using small pieces of tissue and confirm species presence using DNA passively shed into the environment (eDNA), which facilitates estimates of diversity as well as species monitoring. Additionally, DNA-based identification is relatively rapid and the cost to the end-user continues to decline on an annual basis. However, DNA-barcoding only works properly when sequences are associated with properly identified species, which should be vouchered to ensure accuracy. The goal of this project is to establish TX-FISH-DNA, a regionally focused DNA-database for all species of fishes inhabiting freshwater, estuarine, and marine habitats in Texas. TX-FISH-DNA will be populated by reference DNA-sequences obtained from expert-verified and museum vouchered specimens collected from Texas waters and will offer diverse end users rapid access to high-quality mitochondrial DNA sequences that can be applied to solve myriad scientific and societal problems.
-            </div>
-          </div>
+            | ![jars](studies/jars.jpeg) |
+            |-------------------------------|
+            | Traditionally, species identification has been based on external morphology alone, but this can be problematic because of cryptic similarity among taxa, and the need for trained experts. This has led to the adoption of DNA-based identification techniques (often referred to as DNA-barcoding) that offer many advantages over traditional methods. DNA-based identification can be used to accurately identify species using small pieces of tissue and confirm species presence using DNA passively shed into the environment (eDNA), which facilitates estimates of diversity as well as species monitoring. Additionally, DNA-based identification is relatively rapid and the cost to the end-user continues to decline on an annual basis. However, DNA-barcoding only works properly when sequences are associated with properly identified species, which should be vouchered to ensure accuracy. The goal of this project is to establish TX-FISH-DNA, a regionally focused DNA-database for all species of fishes inhabiting freshwater, estuarine, and marine habitats in Texas. TX-FISH-DNA will be populated by reference DNA-sequences obtained from expert-verified and museum vouchered specimens collected from Texas waters and will offer diverse end users rapid access to high-quality mitochondrial DNA sequences that can be applied to solve myriad scientific and societal problems. |
+            
 
         
            
@@ -33,7 +29,6 @@ sections:
         position: center
       text: |
 
-        <br>
         
          The entire geographic range of the Comanche Springs pupfish falls within the Chihuahuan Desert Ecoregion of Texas, with contemporary populations restricted to fragmented, spring-associated habitats in Reeves and Jeff Davis counties, Texas. Comanche Springs pupfish have undergone population/range contraction within recent years in response to human activities, including water extraction, pollution, and are also imperiled by the introduction of the sheepshead minnow, *Cyprinodon variegatus*. Previous research highlighted reduced genetic variation in Comanche Springs pupfish from several wild populations and concluded that there was a need for more genetic resources to be developed. Conservation genomic work using next-generation sequencing techniques will allow for a robust assessment of standing genetic diversity within and among wild populations, as well as an assessment of the potential for current and/or historical hybridization with *C. variegatus*. In aAddition, diversity in wild populations will be compared to that in captive (reserve) populations to assess whether reserve populations adequately represent standing diversity in the wild.
 
