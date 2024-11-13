@@ -13,11 +13,9 @@
     color: #5CAAD8 !important;
   }
   
-  #Section1 {
-    background-image: url('/media/jars.jpeg'); /* Path to your image */
+.fishes-background {
+    background-image: url('/media/jars.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 20px; /* Optional: add padding to give content space */
-    color: #ffffff; /* Optional: set text color to contrast with background */
   }
