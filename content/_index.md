@@ -9,9 +9,9 @@ sections:
     content:
       title: |
         Marine Genomics Lab
-#      image:
-#        filename: welcome.jpg
-#        position: left  # This may not work alone, so we handle styling with CSS
+      image:
+        filename: welcome.jpg
+        position: bottom  # This may not work alone, so we handle styling with CSS
      
       text: |
 
