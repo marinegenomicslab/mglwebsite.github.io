@@ -10,7 +10,7 @@ last_name: Swift
 superuser: false
 
 # Role/position
-role: Post Doctoral Scholar
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:

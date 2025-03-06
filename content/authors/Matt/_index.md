@@ -10,7 +10,7 @@ last_name: Matt
 superuser: false
 
 # Role/position
-role: Post Doctoral Scholar
+role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:

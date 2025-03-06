@@ -10,7 +10,7 @@ last_name: Fields
 superuser: false
 
 # Role/position
-role: Post Doctoral Scholar
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -72,6 +72,6 @@ user_groups:
   - Staff
 ---
 
-Andrew Fields joined the Marine Genomics Lab in May 2016. His research interests in molecular marine ecology range from local adaptation to population connectivity and geographical patterns with a particular interest in elasmobranchs, particularly batoids. Currently, he is using next generation sequencing technology to explore the population connectivity of Red Snapper (Lutjanus campechanus) in the Gulf of Mexico and the effects of the Deepwater Horizon oil spill on the genome and methylome of wild and lab-raised fishes. In collaboration with former members, he is also working on producing a draft genome of both Red Snapper and Red Drum (Sciaenops ocellatus). 
+Andrew Fields joined the Marine Genomics Lab in May 2016. His research interests in molecular marine ecology range from local adaptation to population connectivity and geographical patterns with a particular interest in elasmobranchs, particularly batoids. Currently, he is using next generation sequencing technology to explore the population connectivity of Red Snapper (Lutjanus campechanus) in the Gulf and the effects of the Deepwater Horizon oil spill on the genome and methylome of wild and lab-raised fishes. In collaboration with former members, he is also working on producing a draft genome of both Red Snapper and Red Drum (Sciaenops ocellatus). 
 
 Andrew earned his B.S. in Marine Biology from Southampton College and a M.S. from Long Beach State. He has also been a Research Assistant in both a microbial ecology lab at Harvard University and a forensic entomology lab at Texas A&M University. In 2018 Andrew received his PhD from Stony Brook University where his dissertation looked at the species composition of the shark fin trade.  

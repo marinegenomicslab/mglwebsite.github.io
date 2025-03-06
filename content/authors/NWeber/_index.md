@@ -10,7 +10,7 @@ last_name: Weber
 superuser: false
 
 # Role/position
-role: Ph. D Candidate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -69,9 +69,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Staff
 ---
 
-Nick joined the MGL as a PhD student in August of 2019. His dissertation work focuses on genetic population structure and connectivity of three exploited grouper species (red grouper, yellowedge grouper, and speckled hind) in the U.S. Atlantic and Gulf of Mexico. Specifically, he is using next-generation sequencing to assess spatial patterns of diversity within each of the three species. Tissues are associated with otoliths being used for a concurrent age and growth study, providing the unique opportunity to assess for correlations between genomic variation and differences in life history characteristics (e.g., growth rate, size-at-age).
+Nick joined the MGL as a PhD student in August of 2019 and graduated in Fall of 2024. His dissertation work focused on genetic population structure and connectivity of three exploited grouper species (red grouper, yellowedge grouper, and speckled hind) in the U.S. Atlantic and Gulf. Specifically, he is using next-generation sequencing to assess spatial patterns of diversity within each of the three species. Tissues are associated with otoliths being used for a concurrent age and growth study, providing the unique opportunity to assess for correlations between genomic variation and differences in life history characteristics (e.g., growth rate, size-at-age).
 
 Nick received a B.S. in Biological Sciences from the University of Notre Dame, and completed his M.S. in Marine Biology at the College of Charleston, SC. While attending the College of Charleston, Nick worked as a Natural Resource Technician at the South Carolina Department of Natural Resources, where he studied post-release mortality and stress physiology in recreationally caught blacktip sharks. 

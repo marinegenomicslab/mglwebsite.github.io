@@ -72,6 +72,6 @@ user_groups:
   - Graduate Students
 ---
 
-Michaela joined the Marine Genomics Laboratory at Texas A&M University -Corpus Christi in August 2022. Her dissertation research focuses on population genomics of the spotted seatrout, Cynoscion nebulosus, throughout the Gulf of Mexico and Atlantic.
+Michaela joined the Marine Genomics Laboratory at Texas A&M University - Corpus Christi in August 2022. Her dissertation research focuses on population genomics of the spotted seatrout, Cynoscion nebulosus, throughout the US Atlantic and Gulf.
 
 Michaela received her B.S. in Marine Biology from the University of New England in 2019 where she was a volunteer in the lab of Dr. Markus Fredrich researching European green crab thermal tolerance. After her degree, she spent time as a Laboratory Technician and Research Assistant in the lab of Dr. Laura Katz at Smith College working on protist ecology and genomics. She then received her M.S. in Marine Biology from Scripps Institution of Oceanography at UCSD in 2022 where she researched the use of environmental DNA metabarcoding and fish egg DNA barcoding to characterize pelagic spawning fish communities as well as understand interannual variation in pelagic spawning fish output along the California coastline. 

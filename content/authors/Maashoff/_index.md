@@ -73,5 +73,6 @@ user_groups:
 ---
 
 Taylor joined the MGL in 2024. She is currently assisting with various projects including metabarcoding and methylation-based aging in fishes.
+
 She is currently pursuing her BS at Texas A&M University – Corpus Christi in biology with an emphasis in Marine Biology. She is scheduled to graduate in 2025. 
  

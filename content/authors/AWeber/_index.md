@@ -72,6 +72,6 @@ user_groups:
   - Graduate Students
 ---
 
-Allison joined the Marine Genomics Lab in August 2022. Her dissertation research is focused on population and conservation genetics of oysters in the Gulf of Mexico.
+Allison joined the Marine Genomics Lab in August 2022. Her dissertation research is focused on population and conservation genetics of oysters in the Gulf.
 
 She received a B.S in biology and a B.A. in chemistry with a minor in environmental sustainability from Drury University in Springfield, MO in 2022. During her time there she participated in undergraduate research looking at the population genetics of ringed crayfish using mtDNA COI sequencing. She also aided in assembling the mitochondrial genome of the Bailey’s pocket mouse using RNA-seq data and bioinformatics.
