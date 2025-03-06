@@ -11,7 +11,9 @@ sections:
         Marine Genomics Lab
       image:
         filename: welcome.jpg
-        position: center
+        position: left #center
+      design:
+        text_size: sm
       text: |
 
         <br>
