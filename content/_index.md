@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown #hero
     content:
       title: |
         Marine Genomics Lab
