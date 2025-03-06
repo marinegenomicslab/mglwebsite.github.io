@@ -1,4 +1,26 @@
 .hero-content {
     text-align: center;
   }
+  .fullscreen {
+    position: relative;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;  /* Ensures text is white */
+    text-align: center;
+    z-index: 10;  /* Ensures text stays on top */
+  }
+  
+  .overlay-text h2 {
+    font-size: 3rem;  /* Large title */
+    margin-bottom: 10px;  /* Space below the title */
+  }
+  
+  .overlay-text p {
+    font-size: 1.5rem;  /* Large content text */
+  }
   
