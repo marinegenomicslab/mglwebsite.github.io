@@ -7,10 +7,10 @@ type: landing
 sections:
   - block: markdown #hero
     content:
-      #title: |
-      #  Marine Genomics Lab
+      title: |
+        Marine Genomics Lab
       image:
-        filename: 
+        filename: welcome.jpg
         position: center
       text: |
 
