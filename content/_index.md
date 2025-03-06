@@ -13,6 +13,7 @@ sections:
         filename: welcome.jpg
         position: center
       text: |
+      position: center 
 
         <br>
         
