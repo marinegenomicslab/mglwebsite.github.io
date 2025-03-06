@@ -6,7 +6,7 @@ type: landing
 
 sections:
 
-  - block: #hero
+  - block: hero
     content:
       title: |
         Marine Genomics Lab
