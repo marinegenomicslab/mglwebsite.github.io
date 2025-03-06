@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown #hero
+  - block: hero
     content:
       title: |
         Marine Genomics Lab
@@ -13,30 +13,29 @@ sections:
         filename: welcome.jpg
         position: center
       text: |
-      position: center 
 
         <br>
         
         The Marine Genomics Laboratory at Texas A&M University-Corpus Christi uses cutting edge, next-generation sequencing technology to address issues of marine conservation and management of exploited marine species. Additionally, we investigate biogeography and phylogenetics, with a focus on taxa found in the Gulf and northern Caribbean. The techniques being developed and utilized in our laboratory allow us to study population structure at an unprecedented resolution and to characterize adaptive aspects of genomic variation important for persistence at local scales and adaptation to temporal environmental fluctuations. 
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+  #- block: collection
+  #  content:
+  #    title: Latest News
+  #    subtitle:
+  #    text:
+  #    count: 5
+  #    filters:
+  #      author: ''
+  #      category: ''
+  #      exclude_featured: false
+  #      publication_type: ''
+  #      tag: ''
+  #    offset: 0
+  #    order: desc
+  #    page_type: post
+  #  design:
+  #    view: card
+  #    columns: '1'
   
   - block: markdown
     content:
