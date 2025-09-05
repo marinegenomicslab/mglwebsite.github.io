@@ -9,24 +9,18 @@ sections:
   - block: markdown
     id: Section 1
     content:
-      title: Barcoding Texas Fishes
+      title: 
       text: |
         <img src="./jars.jpeg" align="right" style="padding-left:10px;" width="600"/>
           <h2>Barcoding Texas Fishes</h2>
           Traditionally, species identification has been based on external morphology alone, but this can be problematic because of cryptic similarity among taxa, and the need for trained experts. This has led to the adoption of DNA-based identification techniques (often referred to as DNA-barcoding) that offer many advantages over traditional methods. DNA-based identification can be used to accurately identify species using small pieces of tissue and confirm species presence using DNA passively shed into the environment (eDNA), which facilitates estimates of diversity as well as species monitoring.
-        </div>
             
 
   - block: markdown
     id: Section 2
     content:
       title: Conservation Genomics of the Comanche Springs Pupfish (*Cyprinodon elegans*)
-      image:
-        filename: 
-        position: center
-      text: |
-
-        
+      text: |      
          The entire geographic range of the Comanche Springs pupfish falls within the Chihuahuan Desert Ecoregion of Texas, with contemporary populations restricted to fragmented, spring-associated habitats in Reeves and Jeff Davis counties, Texas. Comanche Springs pupfish have undergone population/range contraction within recent years in response to human activities, including water extraction, pollution, and are also imperiled by the introduction of the sheepshead minnow, *Cyprinodon variegatus*. Previous research highlighted reduced genetic variation in Comanche Springs pupfish from several wild populations and concluded that there was a need for more genetic resources to be developed. Conservation genomic work using next-generation sequencing techniques will allow for a robust assessment of standing genetic diversity within and among wild populations, as well as an assessment of the potential for current and/or historical hybridization with *C. variegatus*. In aAddition, diversity in wild populations will be compared to that in captive (reserve) populations to assess whether reserve populations adequately represent standing diversity in the wild.
 
 
@@ -34,13 +28,7 @@ sections:
     id: Section 3
     content:
       title: Using genetics to differentiate between morphologically conserved congeners – scamp, *Mycteroperca phenax*, and yellowmouth grouper, *Mycteroperca interstitialis*
-      image:
-        filename: 
-        position: center
       text: |
-
-        <br>
-        
          Yellowmouth grouper, *Mycteroperca interstitialis*, and scamp, *Mycteroperca phenax*, are  similar in physical appearance, leading to high rates of misidentification. Without proper species identification, understanding species-specific landings and life history becomes a challenge. To improve species identification, next generation sequencing techniques are being employed to resolve genetic differences between the species. These data will be used to design a diagnostic molecular panel to differentiate between scamp and yellowmouth grouper utilizing tissue samples collected by “fisheries dependent” and "fisheries-independent” sampling. In additional to finding species specific genetic markers, these data will provide tools for assessments of genetic population structure for both species throughout the western North Atlantic.
 
 
@@ -48,13 +36,8 @@ sections:
     id: Section 4
     content:
       title: Conservation of Pecos Pupfish
-      image:
-        filename: 
-        position: center
       text: |
-
-        <br>
-        
+        <img src="./peocs.jpg" align="left" style="padding-left:10px;" width="600"/>  
          The Pecos pupfish, *Cyprinodon pecosensis*¸ is an imperiled freshwater fish, endemic to the Rio Grande drainage of the southern United States in New Mexico and Texas. This species is of conservation concern due to potential habitat loss and degradation, low population numbers, and potential interactions with the introduced sheepshead minnow, *Cyprinodon variegatus*. Due to the extreme vulnerability of narrowly distributed species of *Cyprinodon*, assessing levels of genetic diversity is essential for guiding population conservation and management decisions. Information for this assessment will be used by Texas Parks and Wildlife in coordination with the Fort Worth Zoo and the U.S. Fish and Wildlife Service to develop genetically informed management plans for the species. A genetic assessment of the Pecos Pupfish population in Texas will also be critical for informing the upcoming Pecos Pupfish Conservation Agreement and species status assessment.
 
 
