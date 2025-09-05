@@ -75,7 +75,7 @@ sections:
   - block: markdown
     id: Section 8
     content:
-      title: Recovery of the Smalltooth Sawfish
+      title:
       text: |
         <img src="./sawfish_bethea_noaa.jpg" align="right" style="padding-left:10px;" width="600"/>
         <h2>Recovery of the Smalltooth Sawfish</h2>
