@@ -65,7 +65,7 @@ sections:
     design:
       view: citation
       columns: '1'
-      title_override: "Publications" 
+
 
   - block: markdown
     content:
