@@ -77,7 +77,7 @@ sections:
     content:
       title: Recovery of the Smalltooth Sawfish
       text: |
-         <img src="./sawfish_bethea_noaa.jpg" align="right" style="padding-left:10px;" width="600"/>
+        <img src="./sawfish_bethea_noaa.jpg" align="right" style="padding-left:10px;" width="600"/>
         <h2>Recovery of the Smalltooth Sawfish</h2>
          The smalltooth sawfish is critically endangered and a team has been tasked with facilitating recovery in the United States. Recovery requires understanding the magnitude of decline in population (census) size over time, but no such estimates of current or historical census size exist. This project uses cutting-edge genetic techniques to provide the recovery team with estimates of current and baseline population size (using a CKMR framework), while building tools for future monitoring. The results will be used to assess recovery, inform conservation actions, and enhance legal protections.
 
@@ -87,6 +87,6 @@ sections:
     content:
       title: 
       text: |
-        <h2>Molecular Approaches to Sex Identification in Fishes</h2>
+          <h2>Molecular Approaches to Sex Identification in Fishes</h2>
           Many fishes, like snappers and triggerfish, have genetic sex determination, while other species change sex during their life cycle, such as groupers or wrasses. Currently, determining the sex of individuals requires the use of lethal methods. This study aims to use a variety of genomic techniques, such as whole genome sequencing and RNA sequencing to characterize molecular differences between the sexes of three commercially important species, such as red snapper, gray triggerfish, and gag grouper. The data will be used to develop sex-specific markers for each species as a tool for accurate and non-lethal sex identfication.
 ---
