@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Marine Genomics Lab # Website name
-baseURL: 'marinegenomicslab.com' # Website URL
+baseURL: https://marinegenomicslab.github.io/ # Website URL
 
 ############################
 ## LANGUAGE
