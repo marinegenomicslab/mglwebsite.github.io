@@ -31,7 +31,7 @@ sections:
       title: 
       text: |
         <h2>Using genetics to differentiate between morphologically conserved congeners – scamp, <i>Mycteroperca phenax</i>, and yellowmouth grouper, <i>Mycteroperca interstitialis</i></h2>
-         Yellowmouth grouper, *Mycteroperca interstitialis*, and scamp, *Mycteroperca phenax*, are  similar in physical appearance, leading to high rates of misidentification. Without proper species identification, understanding species-specific landings and life history becomes a challenge. To improve species identification, next generation sequencing techniques are being employed to resolve genetic differences between the species. These data will be used to design a diagnostic molecular panel to differentiate between scamp and yellowmouth grouper utilizing tissue samples collected by “fisheries dependent” and "fisheries-independent” sampling. In additional to finding species specific genetic markers, these data will provide tools for assessments of genetic population structure for both species throughout the western North Atlantic.
+         Yellowmouth grouper, <i>Mycteroperca interstitialis</i>, and scamp, <i>Mycteroperca phenax</i>, are  similar in physical appearance, leading to high rates of misidentification. Without proper species identification, understanding species-specific landings and life history becomes a challenge. To improve species identification, next generation sequencing techniques are being employed to resolve genetic differences between the species. These data will be used to design a diagnostic molecular panel to differentiate between scamp and yellowmouth grouper utilizing tissue samples collected by “fisheries dependent” and "fisheries-independent” sampling. In additional to finding species specific genetic markers, these data will provide tools for assessments of genetic population structure for both species throughout the western North Atlantic.
 
 
   - block: markdown
@@ -49,6 +49,7 @@ sections:
     content:
       title: 
       text: |
+        <img src="./devils.jpg" align="right" style="padding-left:10px;" width="600"/>
         <h2>Conservation Genomic Assessment of imperiled freshwater fishes endemic to the Pecos and Devils Rivers</h2>
          Many freshwater fishes endemic to the major and minor spring-fed tributaries of the lower Rio Grande within Texas exhibit small, highly fragmented distributions and are a priority for conservation by Texas Parks and Wildlife Department or the U.S. Fish and Wildlife Service. Several of these species (e.g., <i>Etheostoma grahami</i>, <i>Dionda argentosa</i>, <i>D. diaboli</i>, <i>Cyprinella proserpina<,i>, and <i>Notropis megalops</i>) have distributions that fall almost entirely within two Texan native fish conservations areas (NFCAs), the Devils and Pecos River NFCAs. The small geographic ranges of each of the five species are highly fragmented and have undergone contraction within recent years in response to human activities, including (but not limited to) water extraction and the introduction of non-natives. Conservation genomics will involve next-generation sequencing techniques allowing for a robust assessment of standing genetic diversity and geneflow for each species, providing crucial information for future management and conservation planning.
 
@@ -76,6 +77,7 @@ sections:
     content:
       title: Recovery of the Smalltooth Sawfish
       text: |
+         <img src="./sawfish_bethea_noaa.jpg" align="right" style="padding-left:10px;" width="600"/>
         <h2>Recovery of the Smalltooth Sawfish</h2>
          The smalltooth sawfish is critically endangered and a team has been tasked with facilitating recovery in the United States. Recovery requires understanding the magnitude of decline in population (census) size over time, but no such estimates of current or historical census size exist. This project uses cutting-edge genetic techniques to provide the recovery team with estimates of current and baseline population size (using a CKMR framework), while building tools for future monitoring. The results will be used to assess recovery, inform conservation actions, and enhance legal protections.
 
