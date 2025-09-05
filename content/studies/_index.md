@@ -11,7 +11,7 @@ sections:
     content:
       title: 
       text: |
-        <img src="./jars.jpeg" align="right" style="padding-left:10px;" width="600"/>
+        <img src="./jars.jpeg" align="right" style="padding-left:10px; margin-top:10px;" width="600"/>
         <h2>Barcoding Texas Fishes</h2>
           Traditionally, species identification has been based on external morphology alone, but this can be problematic because of cryptic similarity among taxa, and the need for trained experts. This has led to the adoption of DNA-based identification techniques (often referred to as DNA-barcoding) that offer many advantages over traditional methods. DNA-based identification can be used to accurately identify species using small pieces of tissue and confirm species presence using DNA passively shed into the environment (eDNA), which facilitates estimates of diversity as well as species monitoring.
             
